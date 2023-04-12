@@ -53,7 +53,7 @@
 <a href="https://github.com/salammzere3/SALAM-FB"><img title="SALAM-FB" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=SALAM-FB&theme=chartreuse-dark"></a>
 
 <p align="center">
-<a href="https://github.com/salammzere3/tiktokuser"><img title="tiktokuser" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=tiktokuser&theme=highcontrast"></a>
+<a href="https://github.com/salammzere3/Hunterinsta"><img title="Hunterinsta" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=Hunterinsta&theme=highcontrast"></a>
 
 <p align="center">
 <a href="https://github.com/salammzere3/HACKPRO"><img title="HACKPRO" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=HACKPRO&theme=midnight-purple"></a>
