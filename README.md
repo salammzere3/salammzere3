@@ -21,7 +21,6 @@
 - ![Profile views](https://gpvc.arturio.dev/salammzere3)
 - [![GitHub followers](https://img.shields.io/github/followers/salammzere3.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/salammzere3?tab=followers)
 
-![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
 > GITHUB STATES :
 
@@ -36,7 +35,7 @@
 <p align="left">
 
 
-<a href="https://t.me/T5B55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="T5B55" height="30" width="40" /></a>
+<a href="https://t.me/T5B55" target="blank"><img align="center" src="https://github.com/oAuth-Buttons/logo-providers/blob/master/svg/telegram.svg" alt="T5B55" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/n9rj_/" height="30" width="40" /></a>
 
 
@@ -51,16 +50,16 @@
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <p align="center">
-<a href="https://github.com/salammzere3/X_File"><img title="X_File" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=X_File&theme=chartreuse-dark"></a>
+<a href="https://github.com/salammzere3/SALAM-FB"><img title="SALAM-FB" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=SALAM-FB&theme=chartreuse-dark"></a>
 
 <p align="center">
-<a href="https://github.com/salammzere3/X-PRO"><img title="Indoscript" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=X-PRO&theme=highcontrast"></a>
+<a href="https://github.com/salammzere3/tiktokuser"><img title="tiktokuser" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=tiktokuser&theme=highcontrast"></a>
 
 <p align="center">
-<a href="https://github.com/salammzere3/RND"><img title="RND" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=RND&theme=midnight-purple"></a>
+<a href="https://github.com/salammzere3/HACKPRO"><img title="HACKPRO" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=HACKPRO&theme=midnight-purple"></a>
 
 <p align="center">
-<a href="https://github.com/salammzere3/Source"><img title="Source" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=Source&theme=vision-friendly-dark"></a>
+<a href="https://github.com/salammzere3/face"><img title="face" src="https://github-readme-stats.vercel.app/api/pin/?username=salammzere3&repo=face&theme=vision-friendly-dark"></a>
 
 
 > DATABASE:
